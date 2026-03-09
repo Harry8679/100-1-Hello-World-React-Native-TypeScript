@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
   cardLabel: {
     fontSize: 14,
     color: '#4a4555',
+    
   },
   cardValue: {
     fontSize: 14,
